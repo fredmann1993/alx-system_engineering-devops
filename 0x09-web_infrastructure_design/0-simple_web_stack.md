@@ -30,3 +30,5 @@ The Infrastructure above, downtime will occur because we only have one server an
 3. Cannot scale if too much incoming traffic;
 
 The above infrastructure cannot scale if there’s too much incoming traffic because no second server in the system to share loads and the system will be overloaded.
+
+The link to the diagram is https://imgur.com/a/NHnU7Ak

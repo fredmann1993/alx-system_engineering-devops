@@ -41,3 +41,5 @@ If Application Server 3 needs to access a database, it forwards the request to D
 
 Security Monitoring:
 The web infrastructure should be monitored for security vulnerabilities and attacks. This can be done through automated tools such as intrusion detection systems and web application firewalls. Regular security audits should also be performed.
+
+Link: https://imgur.com/zSiD7kI

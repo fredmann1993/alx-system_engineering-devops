@@ -34,3 +34,4 @@ If Web Server 3 needs to run any code, such as a database query or an API call, 
 Database Server 3:
 If Application Server 3 needs to access a database, it forwards the request to Database Server 3. The database server is responsible for storing and retrieving data.
 
+link: https://imgur.com/gqPPzE4

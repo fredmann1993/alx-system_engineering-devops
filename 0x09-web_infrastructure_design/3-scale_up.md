@@ -17,4 +17,4 @@ Virtual Private Network (VPN): The VPN provides a secure, encrypted connection b
 
 Storage Area: The storage area provides a centralized location for storing and managing data used by the application. This can help to improve data availability and redundancy, as well as simplify data management and backup.
 
-The linke to the diagram is https://imgur.com/a/om7YL6Y
+The linke to the diagram is https://imgur.com/w3wRmQ9

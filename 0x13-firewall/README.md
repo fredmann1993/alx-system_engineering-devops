@@ -1,1 +1,1 @@
-SSH Firewall Configuration
+SSH Firewall Configurations
